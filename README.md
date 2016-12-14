@@ -14,4 +14,8 @@ Sample website with plenty of files for demos
 
 I've just edited this file.
 
+Hello how are you.
+
 ## Deployment
+
+Simple web project
