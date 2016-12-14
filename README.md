@@ -6,6 +6,8 @@ This is a simple file.
 
 ## Introduction
 
+This is an example of how to use p4merge to see diff.
+
 ## Purpose
 
 Sample website with plenty of files for demos
